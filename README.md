@@ -4,12 +4,19 @@
 
 Tool
 -- 
-*Activity
+Activity * 2 
 
 
 
 xml
 --
+* EditText * 1
+* Button * 2
+* TextView * 1
+
+layout
+--
+LinearLayout
 
 Demo
 --
