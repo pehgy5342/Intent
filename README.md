@@ -5,7 +5,7 @@ Demo
 --
 
 
-[image]()
+[image](Intent_Demo.gif)
 
 
 使用的layout
