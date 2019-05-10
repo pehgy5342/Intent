@@ -1,18 +1,17 @@
  # Intent
- 練習用Intent進行跳頁並傳送文字
+ 練習用Intent從Activity A跳頁到Activity B並且傳送文字
 
 
 Tool
--- 
-Activity * 2 
+----
+Activity 
 
 
-
-xml
+Views
 --
-* EditText * 1
-* Button * 2
-* TextView * 1
+* EditText 
+* Button 
+* TextView 
 
 layout
 --
