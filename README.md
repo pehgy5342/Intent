@@ -2,19 +2,19 @@
  練習用Intent從Activity A跳頁到Activity B並且傳送文字
 
 
-Tool 
---
+## Tool 
+
 
 * Activity 
 
 
-## Views ##
+## Views 
 
 * EditText 
 * Button 
 * TextView 
 
-## layout ##
+## Layout
 
 * LinearLayout
 
