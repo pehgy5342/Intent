@@ -12,7 +12,6 @@
 
 * LinearLayout
 
-Demo
---
+## Demo
 ![GIF](Intent_Demo.gif)
 
